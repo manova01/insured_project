@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/insured_project/mlruns/0/3621a2a717af49b9a483becf75a4f937/artifacts
+end_time: 1721777061776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3621a2a717af49b9a483becf75a4f937
+run_name: brawny-horse-780
+run_uuid: 3621a2a717af49b9a483becf75a4f937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721777058722
+status: 3
+tags: []
+user_id: codespace

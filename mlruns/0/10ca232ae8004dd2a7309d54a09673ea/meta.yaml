@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/insured_project/mlruns/0/10ca232ae8004dd2a7309d54a09673ea/artifacts
+end_time: 1721785175112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10ca232ae8004dd2a7309d54a09673ea
+run_name: rogue-gull-81
+run_uuid: 10ca232ae8004dd2a7309d54a09673ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721785169358
+status: 3
+tags: []
+user_id: codespace

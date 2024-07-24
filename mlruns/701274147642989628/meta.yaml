@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/insured_project/mlruns/701274147642989628
+creation_time: 1721789505934
+experiment_id: '701274147642989628'
+last_update_time: 1721789505934
+lifecycle_stage: active
+name: insurance_model

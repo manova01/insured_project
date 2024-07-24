@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/insured_project/mlruns/0/30179c34368c4c0f8f8bc56afdb72588/artifacts
+end_time: 1721775467877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30179c34368c4c0f8f8bc56afdb72588
+run_name: judicious-gnat-632
+run_uuid: 30179c34368c4c0f8f8bc56afdb72588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721775457858
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/insured_project/mlruns/0/11ecc0629ee34a60aa6c4ffb02fe6797/artifacts
+end_time: 1721776439439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11ecc0629ee34a60aa6c4ffb02fe6797
+run_name: melodic-gnu-205
+run_uuid: 11ecc0629ee34a60aa6c4ffb02fe6797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721776436262
+status: 3
+tags: []
+user_id: codespace

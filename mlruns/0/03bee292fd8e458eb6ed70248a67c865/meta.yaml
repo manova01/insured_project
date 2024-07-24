@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/insured_project/mlruns/0/03bee292fd8e458eb6ed70248a67c865/artifacts
+end_time: 1721775776301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03bee292fd8e458eb6ed70248a67c865
+run_name: fearless-ray-398
+run_uuid: 03bee292fd8e458eb6ed70248a67c865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721775721267
+status: 3
+tags: []
+user_id: codespace

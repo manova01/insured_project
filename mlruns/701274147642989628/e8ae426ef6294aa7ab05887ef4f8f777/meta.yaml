@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/insured_project/mlruns/701274147642989628/e8ae426ef6294aa7ab05887ef4f8f777/artifacts
+end_time: 1721789506086
+entry_point_name: ''
+experiment_id: '701274147642989628'
+lifecycle_stage: active
+run_id: e8ae426ef6294aa7ab05887ef4f8f777
+run_name: selective-shrimp-311
+run_uuid: e8ae426ef6294aa7ab05887ef4f8f777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721789506074
+status: 4
+tags: []
+user_id: codespace
